@@ -1,0 +1,18 @@
+/* Pace CSS */
+
+@import url("./pace.css");
+
+/* Import Main Style */
+
+@import url("./style.css");
+
+/* Login CSS */
+
+@import url("./login.css");
+
+/* Import Bootstrap CSS*/
+
+@import url("./bootstrap.min.css");
+body {
+    background-color: #F2F2F2;
+}
